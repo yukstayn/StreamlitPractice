@@ -1,0 +1,2 @@
+# StreamlitPractice
+Just exploring streamlit
